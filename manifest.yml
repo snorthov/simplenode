@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: grantnode
-  name: grantnode
+  host: simplenode
+  name: simplenode
   path: .
   domain: stage1.mybluemix.net
   instances: 1
